@@ -1,2 +1,3 @@
 - saving my practice code for raspberry pi pico w
 - following tutorials: https://www.youtube.com/watch?v=eGdrtikKc5U&list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5
+- working on vs code with the official raspberry pi pico extension
