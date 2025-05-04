@@ -1,1 +1,3 @@
-
+./.vscode/*
+./random_tests/*
+.micropico
